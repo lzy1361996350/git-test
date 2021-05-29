@@ -1,7 +1,7 @@
 package com.atguigu.git;
 
 /**
- * @author 雷子誉
+ * @author 吴迪
  * @date 2021-05-29 13:04
  */
 public class GitTest {
@@ -11,6 +11,7 @@ public class GitTest {
         System.out.println("Hello git3!");
         System.out.println("Hello git4!");
         System.out.println("master test!");
-        System.out.println("hot-fix rest!");
+        System.out.println("hot-fix test!");
+        System.out.println("push test!");
     }
 }
